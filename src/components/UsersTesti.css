@@ -1,0 +1,42 @@
+.testi_main{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.slide {
+    display: flex;
+    justify-content: center;
+    width: 1300px;
+    padding: 40px; 
+    
+}
+.boxmain {
+    display: flex;
+    text-align: center;
+    box-shadow: inset 1px 1px 15px bisque;
+    border-radius: 20px;
+   
+}
+.slicebox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    padding: 40px;
+    font-size: 1.1rem;
+    font-family: 'Lobster', cursive;
+    color: #af584a;;
+    align-items: center;
+    text-align: center;
+}
+.testname{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.testtext{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}

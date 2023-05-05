@@ -1,0 +1,49 @@
+.about_main {
+    background-color: #f1b0b5;
+}
+.about_container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f1b0b5;
+    padding-top: 300px;
+    padding-bottom: 100px;
+    gap: 30px;
+    
+}
+.about_text {
+    display: flex;
+    font-size: 1.2rem;
+    font-family: 'Lobster', cursive;
+    color: #af584a;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 800px;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+.about_image {
+    display: flex;
+    justify-content: center;
+
+}
+.about_title {
+    font-size: 2.5rem;
+    padding: 40px;
+
+
+}
+.advice {
+    background-color: #f1b0b5;
+    text-align: center;
+    font-size: 0.7rem;
+    font-family: 'Lobster', cursive;
+    color: #af584a;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+.gallery {
+    display: flex;
+    justify-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+
+}
+.flv_container {
+    display: flex;
+    justify-content: center;
+    background-color: #f1b0b5;
+}
+
+.box {
+    display: flex;
+    font-size: 1.3rem;
+    font-family: 'Lobster', cursive;
+    color: #af584a;
+    flex-wrap: wrap;
+    max-width: 400px;
+    justify-content: space-around; 
+    padding: 30px;
+    text-align: center;  
+}
+.des {
+    font-size: 1.6rem;
+    font-family: 'Lobster', cursive;
+    color: #af584a;
+    text-align: center;
+    padding-top: 20px;
+    
+    
+}
+.top_flv {
+    margin-top: 193px; 
+}

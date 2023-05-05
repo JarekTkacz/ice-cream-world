@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "flavour": "Triple Chocolate Fudge",
+        "link": "../flavour1.png",
+        "description": "Like vanilla and strawberry, you can't compile a list of the world's best flavors of ice cream without including chocolate. Vanilla may be the most popular flavor but chocolate ice cream was invented first. In fact, it could very well be the world's first ice cream flavor. In 17th century Europe, popular drinks like hot chocolate, coffee, and tea were the first food items to be turned into frozen desserts. Chocolate ice cream is typically made by blending cocoa powder with eggs, cream, sugar, and vanilla. All types of chocolate ice cream are heavenly but personally, we love the versions made with dark chocolate. The richness and slight bitterness of the dark chocolate is to die for."
+
+    },
+
+    {
+        "id": 2,
+        "flavour": "Eggnog",
+        "link": "../flavour2.png",
+        "description": "I spent a good chunk of my early life in the States and one of my favorite things about the US was the eggnog. A Christmas holiday tradition, I remember getting my first sip of eggnog and thinking: “What in heaven's name is this magical creation? It tastes just like liquid ice cream!” Needless to say, if you're a fan of that incredibly rich and creamy gift to humankind known as eggnog, then you're going to love this ice cream. It already tastes like ice cream so it only makes sense to eat it as ice cream! A quick side note, if you ever visit Mexico, then be sure to try rompope ice cream. Rompope is basically the Mexican version of eggnog."
+
+    },
+
+    {
+        "id": 3,
+        "flavour": "Salted Caramel Swirl",
+        "link": "../flavour3.png",
+        "description": "Caramel is very similar to butterscotch except it's made with granulated white sugar instead of brown sugar. The sugar is caramelized and mixed with cream, salt, and other ingredients to make a sauce that's used as a topping or flavoring for ice cream. Caramel ice cream is delicious but salted caramel ice cream may be even better. As its name suggests, it's made with more salt which helps to enhance and bring out the flavor of the caramel."
+
+    },
+
+    {
+        "id": 4,
+        "flavour": "Neapolitan",
+        "link": "../flavour4.png",
+        "description": "Vanilla, chocolate, and strawberry are three of the most popular ice cream flavors so it only makes sense to combine them in this creamy mash-up known as Neapolitan ice cream. It consists of those three iconic flavors served side by side in the same container. Neapolitan ice cream was invented in the 19th century and gets its name from its presumed origin of Naples. Italian immigrants brought their frozen-dessert-making skills to the US and created this three-flavor combination to resemble the Italian flag."
+
+    },
+
+    {
+        "id": 5,
+        "flavour": "Raspberry Sorbet",
+        "link": "../flavour5.png",
+        "description": "Strawberry completes the holy trinity of simple but quintessentially delicious ice cream flavors. It can be made with strawberry flavoring but the best versions are made with fresh strawberries blended in with eggs, cream, sugar, and vanilla. I've never met a Haagen-Dazs flavor I didn't like but their strawberry ice cream is my hands-down favorite. It's so creamy and delicious."
+
+    },
+
+    {
+        "id": 6,
+        "flavour": "Pumpkin Pie",
+        "link": "../flavour6.png",
+        "description": "Delicious and seasonal Pumpkin Pie Ice cream is a traditional, French-style, churned ice cream recipe that's perfect for fall. Creamy, silky, pumpkin pie ice cream is swirled with crisp gingersnap cookies to make this recipe extra special. This Pumpkin Pie Ice Cream can be made gluten-free (with the use of gluten free cookies) and is naturally nut-free."
+
+    },
+
+    {
+        "id": 7,
+        "flavour": "Mango Tango",
+        "link": "../flavour7.png",
+        "description": "Strawberry may be the most popular fruit-based flavor in the west, but visit the tropics and you'll find ice cream made with fruits like coconut, durian, soursop, and mamey.Personally, my favorite is mango. The Philippines is known for having the best mangoes in the world, which probably influences my preference. A little."
+
+    },
+
+    {
+        "id": 8,
+        "flavour": "Butter Pecan",
+        "link": "../flavour8.png",
+        "description": "Butter pecan ice cream is a rich, buttery, and nutty ice cream flavor that's popular mostly in the US. It's essentially vanilla ice cream enriched with whole pecans toasted in browned butter. Need I say more?"
+
+    },
+
+    {
+        "id": 9,
+        "flavour": "Coconut Bliss",
+        "link": "../flavour9.png",
+        "description": "Visit Bangkok and you'll quickly realize that coconut is the most popular ice cream flavor in Thailand. It's a heavenly, tropical blend of egg yolks, heavy cream, and sugar enriched with sweetened shreds of coconut, coconut milk, and coconut cream."
+
+    }
+
+
+
+]
